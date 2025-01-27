@@ -15,3 +15,5 @@
 netsh wlan stop hostednetwork
 netsh wlan set hostednetwork mode=disallow
    
+主要参考：
+https://blog.csdn.net/qq_51795098/article/details/122356982
